@@ -1,0 +1,5 @@
+"account_no","cust_num","type","balance","name","birthdate"
+"M","0030","credit_card",50,"ellen",1990
+"A","0030","loan",400,"ellen",1990
+"H","0060","savings",40,"colin",1992
+"G","0060","credit_card",120,"colin",1992

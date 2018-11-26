@@ -1,0 +1,8 @@
+"cust_no","gender","address","account_no","type","balance","name","birthdate"
+"0020","m","north","I","credit_card",50,"mark",1985
+"0030","f","south","M","credit_card",50,"ellen",1990
+"0010","m","north","F","loan",200,"andrew",1980
+"0030","f","south","A","loan",400,"ellen",1990
+"0015","m","south","N","savings",20,"andrew",1970
+"0020","m","north","L","savings",300,"mark",1985
+"0040","f","north","J","term_deposit",200,"cathy",1987

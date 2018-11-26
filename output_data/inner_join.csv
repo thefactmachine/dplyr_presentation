@@ -1,0 +1,15 @@
+"cust_no","name.x","birthdate.x","gender","address","account_no","type","balance","name.y","birthdate.y"
+"0010","andrew",1980,"m","north","F","loan",200,"andrew",1980
+"0015","andrew",1970,"m","south","N","savings",20,"andrew",1970
+"0020","mark",1985,"m","north","I","credit_card",50,"mark",1985
+"0020","mark",1985,"m","north","L","savings",300,"mark",1985
+"0030","ellen",1990,"f","south","A","loan",400,"ellen",1990
+"0030","ellen",1990,"f","south","C","savings",200,"ellen",1990
+"0030","ellen",1990,"f","south","M","credit_card",50,"ellen",1990
+"0040","cathy",1987,"f","north","B","savings",80,"cathy",1987
+"0040","cathy",1987,"f","north","J","term_deposit",200,"cathy",1987
+"0050","megan",1978,"f","south","D","savings",400,"megan",1978
+"0050","megan",1978,"f","south","K","loan",300,"megan",1978
+"0060","colin",1992,"m","north","E","loan",90,"colin",1992
+"0060","colin",1992,"m","north","G","credit_card",120,"colin",1992
+"0060","colin",1992,"m","north","H","savings",40,"colin",1992

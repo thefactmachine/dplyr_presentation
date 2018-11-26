@@ -1,0 +1,15 @@
+"account_no","cust_num","type","balance","name","birthdate"
+"A","0030","loan",400,"ellen",1990
+"B","0040","savings",80,"cathy",1987
+"C","0030","savings",200,"ellen",1990
+"D","0050","savings",400,"megan",1978
+"E","0060","loan",90,"colin",1992
+"F","0010","loan",200,"andrew",1980
+"G","0060","credit_card",120,"colin",1992
+"H","0060","savings",40,"colin",1992
+"I","0020","credit_card",50,"mark",1985
+"J","0040","term_deposit",200,"cathy",1987
+"K","0050","loan",300,"megan",1978
+"L","0020","savings",300,"mark",1985
+"M","0030","credit_card",50,"ellen",1990
+"N","0015","savings",20,"andrew",1970
