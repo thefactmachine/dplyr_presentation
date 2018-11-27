@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541309271384.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1117613681",
+    "id" : "DF30C716",
+    "lastKnownWriteTime" : 1543220662,
+    "last_content_update" : 1543220662882,
+    "path" : "~/TEMP_not_on_cloud/presentation_dplyr/dplyr_code.R",
+    "project_path" : "dplyr_code.R",
+    "properties" : {
+        "cursorPosition" : "430,0",
+        "scrollLine" : "419",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
